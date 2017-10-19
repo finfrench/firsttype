@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "build",
+    "module": "commonjs",
+    "target": "es2015",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true
+  }
+}
